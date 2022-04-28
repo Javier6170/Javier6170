@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Javier6170
-- 👀 I’m interested in programing
+- 👋 Hi, I’m Javier Rodriguez Marulanda and I’m from Colombia. 
+- 👀 I'm interested in programing, I would like be full stack developer.
 - 🌱 I’m currently learning technologies
 - 💞️ I am looking to collaborate on new ideas
 
