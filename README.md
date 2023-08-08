@@ -1,5 +1,5 @@
-Hola 👋
----
+Hola 👋 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+--- 
 Mi nombre es Javier Rodrguez Marulanda y soy de Colombia. 🇨🇴
 
 * Actualmente trabajo como desarrollador de Software
