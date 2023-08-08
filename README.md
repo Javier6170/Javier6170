@@ -1,5 +1,5 @@
 Hola 👋
-
+--- 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenido+a+mi+repositorio;de+GitHub)](https://git.io/typing-svg)
 --- 
 
