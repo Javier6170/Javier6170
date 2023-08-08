@@ -1,6 +1,6 @@
 Hola 👋
 --- 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenido+a+mi+Repositorio+de+GitHub; I´m+Javier+Rodriguez+🔥 ; Software+Developer+</> )](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Bienvenido+a+mi+Repositorio+de+GitHub;I´m+Javier+Rodriguez+🔥;Software+Developer+</> )](https://git.io/typing-svg)
 --- 
 
 Mi nombre es Javier Rodrguez Marulanda y soy de Colombia. 🇨🇴
