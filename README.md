@@ -6,7 +6,7 @@ Hola 👋
 Mi nombre es Javier Rodrguez Marulanda y soy de Colombia. 🇨🇴
 
 * Actualmente trabajo como desarrollador de Software
-* 💙  JAVA, desarrollo Full - Stack
+* 💙  JAVA, desarrollo Backend
 
 Habilidades
 ---
