@@ -17,7 +17,7 @@ Habilidades
 
 Contacto
 ---
-- Encuentra todas mis redes sociales y currículum en mi sitio web [website](https://javier6170.github.io/Javier_Rodriguez_Portafolio/)
+- Encuentra todas mis redes sociales y currículum en mi sitio web [website](https://jrodriguez-dev.com/)
 
 - Mi correo personal respondo más rapido! [Escribir Correo](https://juniorbarc2003@gmail.com)
 
