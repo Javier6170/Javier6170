@@ -10,16 +10,13 @@ Mi nombre es Javier Rodrguez Marulanda y soy de Colombia. 🇨🇴
 
 Habilidades
 ---
-* JAVA y SpringBoot - Backend
+* JAVA y SpringBoot, NestJs, Node.Js - Backend
 * Angular, React, Astro, Ionic - Frontend
 * Tailwind, Diseño UI UX, SCSS, CSS - Hobbie
-* Pentester Hobbie
 
 Contacto
 ---
-- Encuentra todas mis redes sociales y currículum en mi sitio web [website](https://jrodriguez-dev.com/)
-
-- Mi correo personal respondo más rapido! [Escribir Correo](https://juniorbarc2003@gmail.com)
+- Mi correo personal respondo más rapido! [Escribir Correo](https://javierrodriguezmarulanda@gmail.com)
 
 Herramientas
 ---
